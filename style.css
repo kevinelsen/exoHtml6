@@ -1,0 +1,22 @@
+.rectangle
+{
+width: 1400px;
+height: 75px;
+background:#2ecc71;
+/*vert*/
+}
+.rectangle2
+{
+  width: 420px;
+  height: 75px;
+  background:#2980b9 ;
+/*bleu*/
+}
+
+.rectangle3
+{
+  width: 420px;
+  height: 200px;
+  background:#e74c3c;
+/*rouge*/
+}
