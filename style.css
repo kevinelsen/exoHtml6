@@ -20,3 +20,45 @@ background:#2ecc71;
   background:#e74c3c;
 /*rouge*/
 }
+.rectangle4
+{
+  width: 425px;
+  height: 100px;
+  background:#e67e22;
+/*orange*/
+}
+.rectangle5
+{
+  width: 420px;
+  height: 200px;
+  background:#f39c12;
+/*orange clair*/
+}
+.rectangle6
+{
+  width: 420px;
+  height: 200px;
+  background:#95A5A6;
+/*gris*/
+}
+.rectangle7
+{
+  width: 420px;
+  height: 200px;
+  background:#16A085;
+/*bleu canard*/
+}
+.rectangle8
+{
+  width: 420px;
+  height: 200px;
+  background:#d35400;
+/*orange foncé*/
+}
+.rectangle9
+{
+  width: 420px;
+  height: 200px;
+  background:#2c3e50;
+/*bleu marine*/
+}
