@@ -1,15 +1,11 @@
-.rectangle1
-{
+#rectangle1{
 float: left;
 width: 80%;
 height: 75px;
 background:#2ecc71;
 /*vert*/
 }
-
-.rectangle2
-{
-
+#rectangle2{
   float: right;
   right: 0;
   width: 20%;
@@ -17,58 +13,49 @@ background:#2ecc71;
   background:#2980b9 ;
 /*bleu*/
 }
-
-.rectangle3
-{
-  ;
+#rectangle3{
   float: left;
   width: 32%;
   height: 200px;
   background:#e74c3c;
 /*rouge*/
 }
-.rectangle4
-{
+#rectangle4{
   float:left;
   width: 34%;
   height: 100px;
   background:#e67e22;
 /*orange*/
 }
-.rectangle5
-{
+#rectangle5{
   float: right;
   width: 34%;
   height: 100px;
   background:#95A5A6;
 /*gris*/
 }
-.rectangle6
-{
+#rectangle6{
   float: left;
   width: 20%;
   height: 100px;
   background:#f39c12;
 /*Orange clair*/
 }
-.rectangle7
-{
+#rectangle7{
   float:left;
   width: 24%;
   height: 100px;
   background:#16A085;
 /*bleu canard*/
 }
-.rectangle8
-{
+#rectangle8{
   float: right;
   width: 24%;
   height: 100px;
   background:#d35400;
 /*orange foncé*/
 }
-.rectangle9
-{
+#rectangle9{
   float: left;
   width: 100%;
   height: 300px;
